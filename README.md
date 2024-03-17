@@ -10,7 +10,7 @@ Search Functionality: Easily search for the weather in different cities around t
   
 User-friendly Interface: Intuitive design for a seamless user experience.
 Getting Started
-To run the project locally, follow these steps:</h4>
+To run the project locally, follow these steps:
 
 cd weather-app
 Install Dependencies:</h4>
