@@ -20,6 +20,6 @@ Install Dependencies:</h4>
 </h4>
 
 <h3>Run the App:</h3>
-<p>npm start
-This will start the Expo development server, and you can run the app on your device or emulator.</p>
+<h4>npm start
+This will start the Expo development server, and you can run the app on your device or emulator.</h4>
 
