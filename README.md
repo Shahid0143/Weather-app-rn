@@ -1,6 +1,6 @@
 # Weather-app
 <h1>Dynamic Search for city name here...</h1>
-<img src="https://github.com/Shahid0143/Weather-app-rn/assets/112757232/9466b451-efb1-4005-b6eb-772a2fcf92ce"/>
+<img width="200" src="https://github.com/Shahid0143/Weather-app-rn/assets/112757232/9466b451-efb1-4005-b6eb-772a2fcf92ce"/>
 <h3>Overview</h3>
 <h4>This React Native Expo project is a weather app that utilizes the OpenWeatherMap API to provide real-time weather information. The app includes a user-friendly interface with a search functionality, allowing users to easily check the weather for different locations.</h4>
 
